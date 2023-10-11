@@ -2,5 +2,8 @@
 # @Author : 金枝
 
 def fun1():
-    pass
+    print(1)
 
+
+if __name__ == '__main__':
+    fun1()
