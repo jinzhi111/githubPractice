@@ -2,7 +2,7 @@
 # @Author : 金枝
 
 def fun1():
-    print(1)
+    print("测试编译冲突")
 
 
 if __name__ == '__main__':
