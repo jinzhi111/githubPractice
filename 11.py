@@ -7,4 +7,4 @@ def fun1():
 
 if __name__ == '__main__':
     fun1()
-    print(22)
+    print("测试编译冲突再次提交")
